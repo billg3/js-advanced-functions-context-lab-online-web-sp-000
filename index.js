@@ -85,7 +85,7 @@
 
      return payable
 
-     console.log(memo)
+  
  }
 
 
