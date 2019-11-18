@@ -74,6 +74,11 @@
      return parseFloat(rawWage.toString())
  }
 
+
+
+
+
+
  let allWagesFor = function(){
      let eligibleDates = this.timeInEvents.map(function(e){
          return e.date
