@@ -83,7 +83,7 @@
          return memo + wagesEarnedOnDate.call(this, d)
      }.bind(this), 0)
 
-console.log(memo)
+     return payable
  }
 
 
