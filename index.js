@@ -84,7 +84,11 @@
      }.bind(this), 0)
 
      return payable
+
+     console.log(memo)
  }
+
+
 
 
 
